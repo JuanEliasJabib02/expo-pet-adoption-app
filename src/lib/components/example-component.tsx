@@ -3,7 +3,6 @@ import { useTranslation } from 'react-i18next';
 
 export default function ExampleComponent() {
 	const { t } = useTranslation();
-
 	console.log(t);
 	return (
 		<View>

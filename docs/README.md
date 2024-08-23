@@ -13,3 +13,6 @@
 //TODO
 
 - typescript for languages feature.
+- Install react testing library.
+- Watch coverage app and how to do it.
+- Install end to end library.

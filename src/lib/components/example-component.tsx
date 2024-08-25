@@ -6,7 +6,7 @@ export default function ExampleComponent() {
 	console.log(t);
 	return (
 		<View>
-			<Text>TRANSLATION LANGUAGE IS : {t('language')}</Text>
+			<Text>TRANSLATION LANGUAGE IS --: {t('language')}</Text>
 		</View>
 	);
 }

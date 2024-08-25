@@ -3,7 +3,7 @@ import ExampleComponent from '../lib/components/example-component';
 
 export default function App() {
 	return (
-		<View className='h-full bg-background'>
+		<View className='h-full bg-primary'>
 			<ExampleComponent />
 		</View>
 	);
